@@ -1,11 +1,12 @@
 
 <div style="text-align: center;">
   <img src="images/image.jpg" width="325px" style="border-radius: 70%;">
-</div>
-<br>
+  <br><br>
 
 Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research.
 <br><br>
+</div>
+
 
 
 <h1 style="text-align: center;">Meet the Team</h2>
@@ -14,13 +15,17 @@ Named after the Quantitative Science Studies (QSS) journal, the official open ac
   <tr>
     <td style="width:180px;vertical-align: top;">![](images/pmongeon.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
-    **Philippe Mongeon**<br>
-Lab director, Associate professor and chair of the [Department of Information Science](https://www.dal.ca/faculty/management/faculty-staff/information-science.html) at [Dalhousie University](https://www.dal.ca), Editor-in-Chief of [The Canadian Journal of Information and Library Science - La Revue canadienne des sciences de l'information et de bibliothéconomie (CJILS-RCSIB)](https://www.erudit.org/en/journals/cjils/), and
-associate member of the [Centre interuniversitaire de recherche sur la science et la technologie (CIRST)](https://www.cirst.uqam.ca/en/).
-<br>
-<a href="https://pmongeon.github.io" class="website-link" target="_blank">
-  <i class="fa-solid fa-globe"></i>
-</a>
+**Philippe Mongeon**<br>
+Associate professor<br>Department of Information Science<br>Dalhousie University
+<div style="height: 10px"></div>
+<div style="display: flex; gap: 20px; justify-content: left;">
+  <a href="https://pmongeon.github.io" target="_blank" style="text-decoration: none;">
+    <i class="fa-solid fa-globe" style="font-size: 24px; color: #333;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/philippe-mongeon/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; color: #0077b5;"></i>
+  </a>
+</div>
 </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -28,7 +33,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/mhare.jpeg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
         **Maddie Hare**<br>
-        Doctoral Student, PhD Information, Dalhousie University
+        Doctoral Student<br>PhD Information<br>Dalhousie University
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -36,7 +41,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/gkrause.png){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Geoff Krause**<br>
-    Doctoral Student, Interdisciplinary PhD, Dalhousie University
+    Doctoral Student<br>Interdisciplinary PhD<br>Dalhousie University
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -44,7 +49,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/rmarjoram.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Rebecca Marjoram**<br>
-    Master Student, Master of Information Program, Dalhousie University
+    Master Student<br>Master of Information Program<br>Dalhousie University
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -52,7 +57,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/avatar.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Anas Ramdani**<br>
-    Postdoctoral Fellow, Department of Information Science, Dalhousie University
+    Postdoctoral Fellow<br>Department of Information Science<br>Dalhousie University
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -60,7 +65,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/priddle.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Poppy Riddle**<br>
-    Doctoral Student, PhD Information, Dalhousie University    
+    Doctoral Student<br>PhD Information<br>Dalhousie University    
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -68,7 +73,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/rtoupin.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Rémi Toupin**<br>
-    Postdoctoral Fellow, Department of Information Science, Dalhousie University
+    Postdoctoral Fellow<br>Department of Information Science<br>Dalhousie University
     </td>
   </tr>
   <tr><td style="height:"15px"><br></td></tr>
@@ -76,7 +81,7 @@ associate member of the [Centre interuniversitaire de recherche sur la science e
     <td>![](images/swilson.jpg){width="150px"}</td>
     <td style="width:620px;vertical-align: top;">
     **Summer Wilson**<br>
-    Master Student, Master of Information Program, Dalhousie University
+    Master Student<br>Master of Information Program<br>Dalhousie University
     </td>
   </tr>
 </table>
