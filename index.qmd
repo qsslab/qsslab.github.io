@@ -1,0 +1,9 @@
+---
+image: images/image.jpg
+about:
+  template: jolla
+  image-width: 250px
+  image-shape: round
+---
+
+Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research.
