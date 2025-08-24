@@ -1,7 +1,7 @@
 ---
 title: "Identifying Ocean‐Related Literature Using the UN Second World Ocean Assessment Report"
 subtitle: (Article)
-date: 2025-05-27
+date: 2025-01-21
 author:
   - Rémi Toupin
   - Geoff Krause
