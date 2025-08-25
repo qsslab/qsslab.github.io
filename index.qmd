@@ -1,16 +1,20 @@
+---
+image: images/image.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 250px
+---
+
 
 <div style="text-align: center;">
-  <img src="images/image.jpg" width="325px" style="border-radius: 70%;">
-  <br><br>
 
 Named after the Quantitative Science Studies (QSS) journal, the official open access journal of the International Society for Scientometrics and Informetrics (ISSI), the Quantitative Science Studies (QSS) Lab aims to advance knowledge on the production, dissemination and use of research.
-<br><br>
-</div>
-
-
-
-<h1 style="text-align: center;">Meet the Team</h2>
 <br>
+
+</div>
+<h1 style="text-align: center;">Meet the Team</h1>
+<div style="text-align: left;">
 <table>
   <tr>
     <td style="width:180px;vertical-align: top;">![](images/pmongeon.jpg){width="150px"}</td>
@@ -107,3 +111,4 @@ Associate professor<br>Department of Information Science<br>Dalhousie University
     </td>
   </tr>
 </table>
+</div>
