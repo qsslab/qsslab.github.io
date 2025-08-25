@@ -1,15 +1,16 @@
 ---
-title: "Gender Disparity in Funding Rates in Double-Blind Grant Peer Review: The Case of the Villum Experiment"
+title: "Citation Elites in Polytheistic and Umbrella Disciplines: Patterns of Stratification and Concentration in Danish and British Science"
 subtitle: (Article)
-date: 2025-07-03
+date: 2024-02-24
 author:
-  - Emil Bargmann Madsen
+  - Alexander Kladakis
   - Philippe Mongeon
-  - Jesper Wiborg Schneider
+  - Carter Bloch
 authors:
-  - name: Emil Bargmann Madsen 
-    orcid: 0000-0003-4394-5373
-    corresponding: false
+  - name: Alexander Kladakis
+    orcid: 0000-0002-0668-6379
+    corresponding: true
+    email: alkl@ps.au.dk
     affiliations: 
       - ref: cfa
   - name: Philippe Mongeon
@@ -17,10 +18,9 @@ authors:
     corresponding: false
     affiliations:
       - ref: dal
-  - name: Jesper Wiborg Schneider
-    orcid: 0000-0001-5556-0919
-    corresponding: true
-    email: jws@ps.au.dk
+  - name: Carter Bloch
+    orcid: 0000-0003-4718-003X
+    corresponding: false
     affiliations: 
       - ref: cfa
 affiliations:
@@ -31,12 +31,14 @@ affiliations:
     name: Aarhus University
     address: Aarhus, Denmark
 categories: 
-  - Funding
-  - Peer-review
+  - Stratification in science
   - Disparities
+  - Disciplines
+  - Countries
+  
 bibliography: files/references.bib
 csl: files/apa.csl
-doi: https://doi.org/10.1162/qss.a.5
+doi: https://doi.org/10.1007/s11024-024-09521-7
 
 code-overflow: wrap
 code-tools: 
@@ -50,17 +52,17 @@ execute:
 editor_options: 
   chunk_output_type: inline
   
-draft: true
+draft: false
 ---
 
 # Citation
 
-Madsen, E. B., Mongeon, P., & Schneider, J. W. (2025). Gender disparity in funding rates in double-blind grant peer review: The case of the Villum Experiment. *Quantitative Science Studies*, 1–22. <https://doi.org/10.1162/qss.a.5>
+Kladakis, A., Mongeon, P., & Bloch, C. W. (2024). Citation Elites in Polytheistic and Umbrella Disciplines: Patterns of Stratification and Concentration in Danish and British Science. *Minerva*, *62*(3), 397–426. <https://doi.org/10.1007/s11024-024-09521-7>
 
 # Abstract
 
-The Villum Experiment (VEX) is one of the few funding schemes that employs a double-blind review process where applicants are blinded to reviewers, applications are highly standardized, reviewers do not deliberate, and funding is determined solely by ranked aggregated review scores. This unique controlled setting enables assumptions that direct reviewer gender bias is highly unlikely. Using a causal framework (DAG), we examine the extent to which gender disparities in funding may exist in such a setting. Our analyses of 2,041 applications from five funding rounds (2017–2021) reveal a small but consistent gender disparity in success rates, concentrated within the Life Science panel. As reviewer bias is unlikely in this setting, these disparities or structural inequalities are likely caused by differences in gender compositions across disciplines and the underrepresentation of highly experienced women among the applicants and in the population in general. Multilevel modeling with post-stratification indicates that accounting for these structural factors removes the disparity in funding success rates. Our findings highlight that gender disparity in funding may remain without direct review bias. In this case, such remaining disparities are likely rooted in broader structural inequalities within academia and/or compositional effects.
+The notion of science as a stratified system is clearly manifested in the markedly uneven distribution of productivity, rewards, resources, and recognition. Although previous studies have shown that institutional environments for conducting research differ significantly between national science systems, disciplines, and subfields, it remains to be shown whether any systematic variations and patterns in inequalities exist among researchers in different national and domain specific settings. This study investigates the positioning of citation elites as opposed to ‘ordinary’ researchers by way of examining three dimensions of concentration (accumulation of publications and citations, specialisation, and institutional concentration) in biology, economics and physics in Denmark and the UK. Across all three dimensions, we put Richard Whitley’s bipartite theory to the test, suggesting a nexus between the intellectual structure of a discipline and the configuration of its elite. The study draws on a dataset of researchers who published most of their publications in either physics, biology, or economics over the 1980–2018 period and with at least one publication in 2017–2018 while affiliated to either a British or a Danish university. We find higher degrees of concentration in the UK compared to Denmark, and that physics and biology respectively display the greatest and lowest degree of concentration. Similar patterns in disciplinary differences are observed in both countries, suggesting that concentration patterns are largely rooted in disciplinary cultures and merely amplified by the national context.
 
 # Key figures
 
-![Figure 1. The causal model. A directed acyclic graph (DAG) illustrating the proposed causal mechanisms that can lead to gendered differences in success rates for the Villum Experiment fund ing scheme. The dashed arrow from gender to funding illustrates that blinded reviews should ideally remove the potential direct effect, as gender bias in reviews is rendered impossible. Purple nodes are intermediate variables signifying different indirect effects from gender to funding outcome. Potential indirect effects are represented in the DAG as paths through purple nodes. The gray node is an unobserved, possibly confounding, factor.](images/clipboard-1547904559.png){fig-align="center" width="350"}
+![Fig. 4 Distribution of elite (top 5% most cited) and non-elite scientists across institutions](images/clipboard-4150395931.png){fig-align="center"}
