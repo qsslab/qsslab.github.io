@@ -39,7 +39,7 @@ affiliations:
   - id: dal
     name: Dalhousie University
     address: Halifax, Nova Scotia, Canada
-  - id: cfa
+  - id: udem
     name: Université de Montréal
     address: Montréal, Québec, Canada
 categories: 
