@@ -48,7 +48,6 @@ affiliations:
 
 categories: 
   - Scholarly publishing
-  - Article Processing Charges
   - Open Access
   
 bibliography: files/references.bib

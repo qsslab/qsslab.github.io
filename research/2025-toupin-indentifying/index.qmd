@@ -42,10 +42,12 @@ affiliations:
   - id: uottawa
     name: University of Ottawa
     address: Ottawa, Ontario, Canada
+
 categories: 
-  - knowledge mobilization
-  - Ocean research
-  - Science‐policy interface
+  - Knowledge Mobilization
+  - Oceans
+  - Science‐Policy Interface
+  
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.17645/oas.8924

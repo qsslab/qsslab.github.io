@@ -31,7 +31,6 @@ affiliations:
     name: Aarhus University
     address: Aarhus, Denmark
 categories: 
-  - Stratification in science
   - Disparities
   - Disciplines
   - Countries

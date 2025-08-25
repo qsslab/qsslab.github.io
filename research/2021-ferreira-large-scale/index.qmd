@@ -1,5 +1,5 @@
 ---
-title: "Gender Disparity in Funding Rates in Double-Blind Grant Peer Review: The Case of the Villum Experiment"
+title: "Large-Scale Comparison of Authorship, Citations, and Tweets of Web of Science Authors"
 subtitle: (Article)
 date: 2021-01-22
 author:
@@ -30,9 +30,7 @@ affiliations:
     name: Dalhousie University
 categories: 
   - Altmetrics
-  - Bibliometrics
-  - Twitter
-  
+
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.29024/joa.38    

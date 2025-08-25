@@ -57,9 +57,8 @@ affiliations:
     address: Halifax, Nova Scotia, Canada
 categories: 
   - Altmetrics
-  - Science-policy interface
-  - Social media
-  - Ocean research
+  - Science-Policy Interface
+  - Oceans
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1016/j.marpol.2023.105829

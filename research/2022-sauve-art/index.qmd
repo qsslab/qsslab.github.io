@@ -31,7 +31,6 @@ affiliations:
     name: Université de Montréal
 categories: 
   - Disciplines
-  - Architecture
   
 bibliography: files/references.bib
 csl: files/apa.csl

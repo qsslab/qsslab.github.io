@@ -57,7 +57,7 @@ affiliations:
 
 categories: 
   - Research integrity
-  - Knowledge mobilization
+  - Knowledge Mobilization
   - Canada
 bibliography: files/references.bib
 csl: files/apa.csl

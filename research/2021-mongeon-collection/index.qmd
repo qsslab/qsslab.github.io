@@ -47,9 +47,8 @@ affiliations:
     name: Indiana University Bloomington
 categories: 
   - Canada
-  - Journal usage
-  - Collections management
-  - Academic Libraries
+  - Journals
+  - Libraries
   
 bibliography: files/references.bib
 csl: files/apa.csl

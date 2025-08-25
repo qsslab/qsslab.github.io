@@ -38,9 +38,9 @@ affiliations:
     name: Western University
     address: London, Ontario, Canada
 categories: 
-  - Academic libraries
-  - Big Deal cancellations
-  - Collections management
+  - Libraries
+  - Journals
+  
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.33137/cjal-rcbu.v11.43905   
