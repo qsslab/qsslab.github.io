@@ -71,9 +71,9 @@ editor_options:
 ---
 
 ::: callout-note
-**This work is currently under review. Please cite this working paper as:**
+**This work is currently under review. Please cite the preprint:**
 
-Mongeon, P., Hare, M., Riddle, P., Wilson, S., Krause, G., Marjoram, R., & Toupin, R. (2025). Investigating Document Type, Language, and Publication Year and Author Count Discrepancies Between OpenAlex and the Web of Science \[Working paper\]. Quantitative Science Studies Lab. <https://qsslab.github.io/wos-openalex/index.html>
+Mongeon, P., Hare, M., Riddle, P., Wilson, S., Krause, G., Marjoram, R., & Toupin, R. (2025). *Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science* (No. arXiv:2508.18620). arXiv. <https://doi.org/10.48550/arXiv.2508.18620>
 :::
 
 # Abstract
@@ -603,7 +603,7 @@ table14%>%
 
 In some regards, our findings generally offer support to past claims that metadata quality in OpenAlex has room for improvement. It is particularly the case for document types, with more than 300,000 cases where a publication was classified as an article or review in OpenAlex but not in WoS, and almost all manually verified instances pointed to a true misclassification in OpenAlex. This issue may be inherited from OpenAlex's use of the document recorded in Crossref[^8], but remain a potential cause for concern as document type classifications are critical for bibliometric research and evaluation. Document type misclassifications were also present in WoS, although they were much less frequent.
 
-[^8]:  See the OpenAlex documentation here: <https://docs.openalex.org/api-entities/works/work-object#type>
+[^8]: See the OpenAlex documentation here: <https://docs.openalex.org/api-entities/works/work-object#type>
 
 Discrepancies in publication language were also observed but were less common by an order of magnitude. In this case, we also did not identify a clear advantage for one database over the other. There were more cases of articles labeled as English in WoS and not in OpenAlex than the other way around; however WoS was actually correct 50.4% of the time. On the other hand, OpenAlex had fewer articles in English that were in another language according to WoS, but those cases tended to be true misclassifications in OpenAlex. In several instances, both databases were technically correct because we found that the article was in fact published in multiple languages. This highlights a potential issue with metadata schemata that only allow a single value for language. The language discrepancies observed may also be explained by the fact that the OpenAlex language field is algorithmically derived from the metadata (title & abstract). The lack of standardized schemes for the romanization of non-Latin scripts may also cause some issues, not only in terms of metadata quality and the ability for algorithms to properly detect language [@shi2025metadata].
 
