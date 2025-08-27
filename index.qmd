@@ -14,6 +14,7 @@ Named after the Quantitative Science Studies (QSS) journal, the official open ac
 
 </div>
 <h1 style="text-align: center;">Meet the Team</h1>
+<div style="height: 10px"></div>
 <div style="text-align: left;">
 <table>
   <tr>
