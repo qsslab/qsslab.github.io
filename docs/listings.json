@@ -1,34 +1,8 @@
 [
   {
-    "listing": "/research.html",
-    "items": [
-      "/research/2025-toupin-gesamp/index.html",
-      "/research/2025-mongeon-wos-openalex/index.html",
-      "/research/2025-cassady-big-deal/index.html",
-      "/research/2025-madsen-gender/index.html",
-      "/research/2025-simard-examining/index.html",
-      "/research/2025-sauve-bibliometric/index.html",
-      "/research/2025-sauve-database/index.html",
-      "/research/2025-toupin-indentifying/index.html",
-      "/research/2024-hare-cite/index.html",
-      "/research/2024-kladakis-citation/index.html",
-      "/research/2023-mongeon-mapping/index.html",
-      "/research/2023-riddle-green-oa/index.html",
-      "/research/2024-robertson-interference/index.html",
-      "/research/2023-butler-oligopoly/index.html",
-      "/research/2023-toupin-measuring/index.html",
-      "/research/2023-mongeon-open/index.html",
-      "/research/2022-sauve-art/index.html",
-      "/research/2022-simard-national/index.html",
-      "/research/2021-aagaard-getting/index.html",
-      "/research/2021-mongeon-bibliometric/index.html",
-      "/research/2021-mongeon-collection/index.html",
-      "/research/2021-ferreira-large-scale/index.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
+      "/posts/2026-04-27-Riddle/index.html",
       "/posts/2025-10-31-Frankenmetrics/index.html",
       "/posts/2025-06-03-CAIS/index.html",
       "/posts/2025-06-10-BRIC/index.html",
