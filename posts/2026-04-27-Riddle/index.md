@@ -2,7 +2,7 @@
 title: "Congratulations to Dr. Poppy Riddle on a successful thesis defence"
 date: 2026-04-27
 author: Maddie Hare
-image: featured.png
+image: featured.jpg
 ---
 
 Congratulations are extended to Dr. Poppy Nicolette Riddle on successfully defending her doctoral thesis on Thursday, April 9^th^, 2026!
@@ -15,6 +15,6 @@ The study focused on two specific issues: formatting/encoding problems (like gar
 
 Overall, the findings suggest that while some metadata errors may not matter much, language-related issues can strongly influence how well AI systems work, especially depending on the models used.
 
-Read Dr. Riddle’s dissertation here: <https://hdl.handle.net/10222/86002>
+Read Dr. Riddle’s dissertation [here](https://hdl.handle.net/10222/86002){.uri}.
 
 Dr. Riddle was supervised by Dr. Philippe Mongeon and is the inaugural graduate of the Department of Information Science’s PhD in Information program at Dalhousie! Dr. Riddle will continue to collaborate with the QSSLab and is moving into a position with [Crossref](https://www.crossref.org/)!
