@@ -4,7 +4,7 @@ listing:
   fields: [title, author, categories, date, image]
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: true
 page-layout: full

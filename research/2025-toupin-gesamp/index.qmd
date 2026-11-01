@@ -49,9 +49,7 @@ affiliations:
     name: Aarhus University
     address: Aarhus, Denmark
 categories: 
-  - Science-policy interface
-  - Knowledge mobilization
-  - Altmetrics
+  - Articles
 bibliography: files/references.bib
 csl: files/apa.csl
 # doi: https://doi.org/10.1162/qss.a.5

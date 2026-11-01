@@ -44,9 +44,7 @@ affiliations:
     address: Ottawa, Ontario, Canada
 
 categories: 
-  - Knowledge Mobilization
-  - Oceans
-  - Science‐Policy Interface
+  - Article
   
 bibliography: files/references.bib
 csl: files/apa.csl
