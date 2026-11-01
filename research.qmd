@@ -10,3 +10,7 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
+## Research
+
+The following list is a selection of research outputs by members of the lab., including outputs that did not originate from the activities of the lab or were published before its creation.

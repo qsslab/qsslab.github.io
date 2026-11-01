@@ -14,7 +14,7 @@ website:
         text: News
 format:
   html:
-    toc: true
+    toc: false
     code-link: false
     anchor-sections: true
     fig-cap-location: margin
