@@ -58,9 +58,7 @@ affiliations:
   - id: stellenbosch
     name: Stellenbosch University
 categories: 
-  - Altmetrics
-  - Information behaviour
-  - Twitter
+  - Article
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1162/qss_a_00296

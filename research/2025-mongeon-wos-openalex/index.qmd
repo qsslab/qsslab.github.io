@@ -53,8 +53,7 @@ affiliations:
     name: Dalhousie University
     address: Halifax, Nova Scotia, Canada
 categories: 
-  - Databases
-  - Metadata
+  - Article
 bibliography: files/references.bib
 csl: files/apa.csl
 code-overflow: wrap

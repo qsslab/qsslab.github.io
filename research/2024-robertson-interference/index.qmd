@@ -56,9 +56,8 @@ affiliations:
     name: Evidence for Democracy
 
 categories: 
-  - Research integrity
-  - Knowledge Mobilization
-  - Canada
+  - Article
+
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1139/facets-2023-0005

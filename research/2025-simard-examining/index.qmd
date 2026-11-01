@@ -42,8 +42,10 @@ affiliations:
   - id: udem
     name: Université de Montréal
     address: Montréal, Québec, Canada
+    
 categories: 
   - Article
+
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1162/QSS.a.1

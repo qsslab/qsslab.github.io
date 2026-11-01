@@ -31,10 +31,8 @@ affiliations:
     name: Aarhus University
     address: Aarhus, Denmark
 categories: 
-  - Disparities
-  - Disciplines
-  - Countries
-  
+  - Article
+
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1007/s11024-024-09521-7

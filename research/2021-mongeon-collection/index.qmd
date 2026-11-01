@@ -46,10 +46,8 @@ affiliations:
   - id: ind
     name: Indiana University Bloomington
 categories: 
-  - Canada
-  - Journals
-  - Libraries
-  
+  - Article
+
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: 10.5860/crl.82.2.219

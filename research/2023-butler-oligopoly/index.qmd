@@ -47,8 +47,8 @@ affiliations:
     name: Freie Universität Berlin
 
 categories: 
-  - Scholarly publishing
-  - Open Access
+  - Article
+
   
 bibliography: files/references.bib
 csl: files/apa.csl

@@ -37,8 +37,7 @@ affiliations:
     name: Université de Montréal
     
 categories: 
-  - Open Access
-  - Countries
+  - Article
 
 bibliography: files/references.bib
 csl: files/apa.csl

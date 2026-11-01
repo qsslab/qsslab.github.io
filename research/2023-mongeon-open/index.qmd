@@ -36,9 +36,7 @@ affiliations:
   - id: stellenbosch
     name: Stellenbosch University
 categories: 
-  - Altmetrics
-  - Twitter
-  - Open data
+  - Article
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.1162/qss_a_00250

@@ -29,7 +29,7 @@ affiliations:
   - id: dal
     name: Dalhousie University
 categories: 
-  - Altmetrics
+  - Article
 
 bibliography: files/references.bib
 csl: files/apa.csl

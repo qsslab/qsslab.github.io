@@ -38,8 +38,7 @@ affiliations:
     name: Western University
     address: London, Ontario, Canada
 categories: 
-  - Libraries
-  - Journals
+  - Article
   
 bibliography: files/references.bib
 csl: files/apa.csl

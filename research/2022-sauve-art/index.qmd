@@ -30,7 +30,7 @@ affiliations:
   - id: udem
     name: Université de Montréal
 categories: 
-  - Disciplines
+  - Article
   
 bibliography: files/references.bib
 csl: files/apa.csl

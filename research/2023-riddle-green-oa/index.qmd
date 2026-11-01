@@ -43,9 +43,7 @@ affiliations:
     name: Université de Montréal
     address: Montréal, Québec, Canada
 categories: 
-  - Open Access
-  - Libraries
-  - Canada
+  - Article
 bibliography: files/references.bib
 csl: files/apa.csl
 doi: https://doi.org/10.5206/cjils-rcsib.v46i2.15358

@@ -42,8 +42,7 @@ affiliations:
     name: Western University
     
 categories: 
-  - Disparities
-  - Library and Information Science
+  - Article
   
 bibliography: files/references.bib
 csl: files/apa.csl
